@@ -13,3 +13,4 @@ calc-d-test-*
 *.o
 *.obj
 *.lst
+*.pdb
