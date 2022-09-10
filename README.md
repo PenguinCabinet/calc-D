@@ -1,5 +1,5 @@
-# 🧮cale-d
-D言語で書かれたBrainfuxkの処理系です。    
+# 🧮cale-D
+D言語で書かれた電卓です。    
 なんだかんだ作ったことがなかったので作ってみた第二弾です。    
 [第一弾](https://github.com/PenguinCabinet/Brainfuxk-D)。   
 
@@ -12,7 +12,7 @@ dub build
 
 ## 🔨使い方
 ```bash
-/project>calc-d.exe
+/cale-D>calc-d.exe
 >1+2+3*(4+5*2)
 tokenized expr:1 + 2 + 3 * ( 4 + 5 * 2 )  
 RPB expr:1 2 + 3 4 5 2 * + * +
