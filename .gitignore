@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/calc-d
+calc-d.so
+calc-d.dylib
+calc-d.dll
+calc-d.a
+calc-d.lib
+calc-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
