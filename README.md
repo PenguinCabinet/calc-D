@@ -1,4 +1,4 @@
-# 🧮cale-D
+# 🧮calc-D
 D言語で書かれた電卓です。    
 なんだかんだ作ったことがなかったので作ってみた第二弾です。    
 [第一弾](https://github.com/PenguinCabinet/Brainfuxk-D)。   
